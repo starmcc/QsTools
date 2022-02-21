@@ -1,6 +1,12 @@
 # QsTools 秋水工具箱
 
+香港橘子Beanfun小工具，一体化网页登录解决方案。
+
+支持TMS 32/64位游戏，图个方便，易语言开发的。
+
 ## 介绍
+
+
 
 该工具参考如下：
 
@@ -8,10 +14,6 @@
 )
 
 - [InWILL](https://github.com/InWILL)大神的**[Locale_Remulator](https://github.com/InWILL/Locale_Remulator)**
-
-
-
-支持TMS 32/64位游戏，图个方便，易语言开发的。
 
 可以自己查看代码
 
