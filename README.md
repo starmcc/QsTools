@@ -1,2 +1,0 @@
-# QsTools
-beanfun-hk-login
