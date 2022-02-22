@@ -2,31 +2,29 @@
 
 香港橘子Beanfun小工具，一体化网页登录解决方案。
 
-支持TMS 32/64位台服新枫之谷运行，图个方便，易语言开发的。
+支持TMS 32/64位台服新枫之谷运行，图个方便，易语言开发的，开源自取。
 
 ## 介绍
 
+感谢下面的大神提供思路和开源代码
 
-
-该工具参考如下：
-
-- [pungin](https://github.com/pungin)大神的[Beanfun登录器](TwMS-Helper
+- [pungin](https://github.com/pungin)的[Beanfun登录器](TwMS-Helper
 )
+- [InWILL](https://github.com/InWILL)的**[Locale_RemulatorV1.4.1](https://github.com/InWILL/Locale_Remulator)**
 
-- [InWILL](https://github.com/InWILL)大神的**[Locale_Remulator](https://github.com/InWILL/Locale_Remulator)**
-
-可以自己查看代码
-
-自动使用管理员方式进入，如果失效麻烦右键管理员运行。
 
 
 
 ## 截图
+![img](./img1.png)
+![img](./img2.png)
 
-![tools](./banner.png)
+## 使用
 
+1. 运行QsToolsInstall.exe 
+2. 按照说明进行使用
 
 
 ## 下载
 
-[QsTools秋水工具箱-Releases]([Releases · starmcc/QsTools (github.com)](https://github.com/starmcc/QsTools/releases))
+[QsTools秋水工具箱-Releases](https://github.com/starmcc/QsTools/releases)
