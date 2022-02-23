@@ -10,7 +10,7 @@
 
 - [pungin](https://github.com/pungin)的[Beanfun登录器](TwMS-Helper
 )
-- [InWILL](https://github.com/InWILL)的**[Locale_RemulatorV1.4.1](https://github.com/InWILL/Locale_Remulator)**
+- [InWILL](https://github.com/InWILL)的[**Locale_RemulatorV1.4.1**](https://github.com/InWILL/Locale_Remulator)
 
 
 
@@ -21,7 +21,7 @@
 
 ## 使用
 
-1. 运行QsToolsInstall.exe 
+1. 运行QsTools-Install.exe 
 2. 按照说明进行使用
 
 
