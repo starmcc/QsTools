@@ -6,11 +6,11 @@
 
 ## 介绍
 
-本工具由易语言`5.9.2`版本编写，遵循`MIT`协议。
+本工具由易语言`5.9`版本编写，遵循`MIT`协议。
 
 感谢下面的开源大神提供思路和代码
 
-- [pungin/TwMS-Helper)](https://github.com/pungin/TwMS-Helper)
+- [pungin/TwMS-Helper](https://github.com/pungin/TwMS-Helper)
 - [**InWILL/Locale_RemulatorV1.4.3**](https://github.com/InWILL/Locale_Remulator)
 
 
@@ -29,6 +29,8 @@
 
 ## 使用
 
+**强烈建议使用3.0.0版本以上**
+
 > 3.0.0 版本以上（包括3.0.0）
 
 1. 将`QsTools.exe`放置在游戏目录内，与`MapleStory.exe`同级。
@@ -38,8 +40,8 @@
 > 3.0.0 版本以下
 
 1. 运行`QsTools-Install.exe`
-2. 按照提示做完三步，打开网页，启动游戏吧
+2. 按照提示操作，打开网页，启动游戏吧
 
 ## 下载
 
-[QsTools秋水工具箱-Releases](https://github.com/starmcc/QsTools/releases)
+[QsTools秋水工具箱-Releases点击进入下载页](https://github.com/starmcc/QsTools/releases)
