@@ -2,7 +2,7 @@
 
 香港橘子`Beanfun`登录工具箱`QsTools`。
 
-一体化网页登录最佳解决方案。
+一体化新枫之谷台服网页登录最佳解决方案。
 
 ## 介绍
 
@@ -12,6 +12,10 @@
 
 - [pungin/TwMS-Helper](https://github.com/pungin/TwMS-Helper)
 - [**InWILL/Locale_RemulatorV1.4.3**](https://github.com/InWILL/Locale_Remulator)
+
+
+
+![code](./code.png)
 
 
 
@@ -36,6 +40,8 @@
 1. 将`QsTools.exe`放置在游戏目录内，与`MapleStory.exe`同级。
 2. 先自行打开一次工具
 3. 打开网页，启动游戏吧
+
+
 
 > 3.0.0 版本以下
 
