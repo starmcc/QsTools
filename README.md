@@ -1,8 +1,8 @@
 # QsTools 秋水工具箱
 
-香港橘子`Beanfun`登录工具箱`QsTools`。
+香港/台湾游戏橘子`Beanfun`登录工具箱`QsTools`。
 
-一体化新枫之谷台服网页登录最佳解决方案。
+一体化新枫之谷台服网页登录优秀解决方案。
 
 ![img](./ui.png)
 
@@ -21,7 +21,7 @@
 
 ## 使用
 
-**强烈建议使用3.0.0版本以上**
+**强烈建议使用3.1.1版本以上**
 
 > 3.0.0 版本以上（包括3.0.0）
 
@@ -51,8 +51,24 @@
 4. 自动输入功能（省去复制啦）
 4. 内置纸娃娃系统（[MapleStory-GM-Client-Github](https://github.com/Elem8100/MapleStory-GM-Client)）
 4. 增加联盟摆放模拟器（[来自此网站](https://xenogents.github.io/LegionSolver/)）
+4. 增加关闭`NGS`强制结束进程功能（某些加速器卡`NGS`解决方案）
 4. 其他使用功能
 
 
 
+## 依赖
 
+1. [**InWILL/Locale_RemulatorV1.4.3**](https://github.com/InWILL/Locale_Remulator)
+2. 小梦自动更新模块.ec（auto-update.e 开源）
+3. 精易模块[v10.0.5].ec（精易论坛开源模块）
+4. 纸娃娃系统（[MapleStory-GM-Client-Github](https://github.com/Elem8100/MapleStory-GM-Client)）
+
+
+
+## 打赏
+
+开源免费实属不易，如果您资金充裕，望君能给与我一些鼓励与支持。
+
+每一笔打赏，都将让我铭记于心，感恩。
+
+![image](./sponsor.png)
