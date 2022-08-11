@@ -31,15 +31,14 @@
 
 
 
-> 3.0.0 版本以下（已废弃）
+> ~~3.0.0 版本以下~~（已废弃）
 
-1. 运行`QsTools-Install.exe`
-2. 按照提示操作，打开网页，启动游戏吧
+1. ~~运行`QsTools-Install.exe`~~
+2. ~~按照提示操作，打开网页，启动游戏吧~~
 
 ## 下载
 
-[QsTools秋水工具箱-Releases点击进入下载页](https://github.com/starmcc/QsTools/releases)
-
+[Releases点击进入下载页](https://github.com/starmcc/QsTools/releases)
 
 
 ## 实现功能
@@ -79,12 +78,10 @@ certutil -hashfile 该程序路径
 
 回车后会出现hash值。
 
-
-
 ## 打赏
 
-开源免费实属不易，如果您资金充裕，望君能给与我一些鼓励与支持。
+开源免费实属不易，如果您资金充裕，望君能慷慨解囊给与我一些鼓励与支持。
 
-每一笔打赏，都将让我铭记于心，感恩。
+每一笔打赏，都将让小梦铭记于心，感恩。
 
 ![image](./sponsor.png)
