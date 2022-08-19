@@ -1,3 +1,4 @@
 *.wz
 *.bak
 /QsTools/
+*.tmp
