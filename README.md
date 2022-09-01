@@ -44,7 +44,6 @@
 
 ## 程序依赖
 
-1. [UPX 3.96](https://github.com/upx/upx/)
 1. [精益模块-10.3.5](http://ec.125.la/)
 2. [EXUI++界面库-20220526 VIP](https://www.iexui.com/)
 3. [InWILL/Locale_RemulatorV1.4.3](https://github.com/InWILL/Locale_Remulator)
