@@ -16,7 +16,7 @@
 
 ## 如何食用？
 
-请移步到发布区下载工具
+请移步到发布区下载本工具
 
 [Releases点击进入下载页](https://github.com/starmcc/QsTools/releases)
 
@@ -40,13 +40,12 @@
 7. 增加联盟摆放模拟器（[来自此网站](https://xenogents.github.io/LegionSolver/)）
 8. 增加关闭`NGS`强制结束进程功能（某些加速器卡`NGS`解决方案）
 9. 一些实用网站收录快速导航
-10. 
-
-
+10. 可更换游戏默认字体
 
 ## 程序依赖
 
-1. [精益模块-10.0.5](http://ec.125.la/)
+1. [UPX 3.96](https://github.com/upx/upx/)
+1. [精益模块-10.3.5](http://ec.125.la/)
 2. [EXUI++界面库-20220526 VIP](https://www.iexui.com/)
 3. [InWILL/Locale_RemulatorV1.4.3](https://github.com/InWILL/Locale_Remulator)
 4. [纸娃娃系统（MapleStory-GM-Client-Github）](https://github.com/Elem8100/MapleStory-GM-Client)
