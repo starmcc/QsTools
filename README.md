@@ -11,7 +11,7 @@
 感谢下面的开源大神提供思路和代码
 
 - [pungin/TwMS-Helper](https://github.com/pungin/TwMS-Helper)
-- [**InWILL/Locale_RemulatorV1.4.3**](https://github.com/InWILL/Locale_Remulator)
+- [**InWILL/Locale_RemulatorV1.5.2**](https://github.com/InWILL/Locale_Remulator)
 
 
 ## 如何食用？
@@ -40,7 +40,8 @@
 7. 增加联盟摆放模拟器（[来自此网站](https://xenogents.github.io/LegionSolver/)）
 8. 增加关闭`NGS`强制结束进程功能（某些加速器卡`NGS`解决方案）
 9. 一些实用网站收录快速导航
-10. 可更换游戏默认字体
+10. 可更换游戏默认字体（4.1.0删除该功能）
+11. 增加theseed工具
 
 ## 程序依赖
 
