@@ -11,7 +11,7 @@
 感谢下面的开源大神提供思路和代码
 
 - [pungin/TwMS-Helper](https://github.com/pungin/TwMS-Helper)
-- [**InWILL/Locale_RemulatorV1.5.2**](https://github.com/InWILL/Locale_Remulator)
+- [**InWILL/Locale_Remulator**](https://github.com/InWILL/Locale_Remulator)
 
 
 ## 如何食用？
@@ -32,7 +32,7 @@
 ## 实现功能
 
 1. 免输入模式，省去复制粘贴账号密码的烦恼。
-2. 简体环境下运行游戏（基于[**InWILL/Locale_RemulatorV1.4.3**](https://github.com/InWILL/Locale_Remulator)）
+2. 简体环境下运行游戏（基于[**InWILL/Locale_RemulatorV1.5.2**](https://github.com/InWILL/Locale_Remulator)）
 3. 装备星力卷轴计算器（25星暂不准确）
 4. 自动关闭Play窗弹出
 5. 自动输入功能（省去复制粘贴啦）
