@@ -47,7 +47,7 @@
 
 1. [精益模块-10.3.5](http://ec.125.la/)
 2. [EXUI++界面库-20220526 VIP](https://www.iexui.com/)
-3. [InWILL/Locale_RemulatorV1.4.3](https://github.com/InWILL/Locale_Remulator)
+3. [InWILL/Locale_RemulatorV1.5.2](https://github.com/InWILL/Locale_Remulator)
 4. [纸娃娃系统（MapleStory-GM-Client-Github）](https://github.com/Elem8100/MapleStory-GM-Client)
 
 
